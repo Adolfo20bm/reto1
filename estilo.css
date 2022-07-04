@@ -1,0 +1,21 @@
+body {
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.image {
+    border-radius: 50%;
+}
+
+.container {
+    justify-content: center;
+    margin: auto;
+    display: flex;
+}
+
+.tarjeta {
+border-radius: 5%;
+padding: 2rem;
+margin: auto;
+background: #ffffff60;
+}
